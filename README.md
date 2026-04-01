@@ -4,7 +4,20 @@ https://notebooklm.google.com/notebook/c37e33f5-088c-4b47-a1e3-1ceafabbce10
 
 # :gem: Assunto Principal
 
-Como funciona as cryptomoedas? como investir no mercado de cryptomoedas? Principais fundamentos das cryptomoedas
+Como funciona as cryptomoedas? Como investir no mercado de cryptomoedas? Principais fundamentos das cryptomoedas
+
+# :mortar_board: Guia
+
+Faça perguntas relacionadas as cryptomoedas, evite qualquer assunto que não seja relacionado a isso:
+
+- Na Conversa: Faça perguntas claras e objetivas, esse é o campo que você vai utilizar para conversar e extrair as informações da IA
+  
+- No Estúdio: Nessa Aba, são basicamente as mídias que podem ser geradas, utilizando das fontes que foram inseridas pelo usuário
+  
+- Fontes: Lista das fontes que são utilizadas como base para gerar as mídias e as respostas da IA, pense nela como a fonte de conhecimento que a IA Possui
+  
+  - Adicionar Fontes: Pode usar mídias, texto colados, google drive e também sites como fonte de conhecimento. Atualmente o limite é de 50 fontes
+  - Pesquisa de Fontes: Pode usar desse campo para pesquisar as fontes na Web ou no Google Drive. Também tem as opções de Pesquisa Rápida e do Deep Research (Pesquisa aprofundada)
 
 # :mag_right: Links utilizados como fonte no NotebookLM
 
